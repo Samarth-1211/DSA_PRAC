@@ -1,5 +1,7 @@
 public class RemoveDuplicatesfromSortedArray {
     
+    // Two Pointers In same direction One read s and another writes 
+    
     public int removeDuplicates(int[] nums) {
         if(nums.length==0) return 0;
 
