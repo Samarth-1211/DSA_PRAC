@@ -1,5 +1,6 @@
 public class TwoSum_II_InputArrayIsSorted {
     
+    // S : O(1) , T : O(n)
     public int[] twoSum(int[] nums , int target ){
         int i =0,j=nums.length-1;
 
