@@ -6,7 +6,7 @@ public class CountPairsWhoseSumIsLessThenTarget {
     public int counter(List<Integer> nums , int target){
 
         // T : O(nlogn) ,
-        // S : O(logn) --> The space required for sorting in java is log n
+        // S : O(logn) --> The space required for sorting in java is log n 
         int i=0,j=nums.size()-1;
         int count = 0;
 
