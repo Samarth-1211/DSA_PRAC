@@ -1,5 +1,5 @@
 public class ReverseString {
-    
+    // T : O(n) ,  S : O(1)
     public void Reverse(char[] s){
         int i=0,
         j=s.length-1;
