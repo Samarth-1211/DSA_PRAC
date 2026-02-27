@@ -1,6 +1,7 @@
 public class SortTwoColours {
 
-    // This exaplme builds the foundation for Sort Three Colours 
+    // This exaplme builds the foundation for Sort Three Colours , not in leet code or anywhere 
+    // Covered in Single Iteration
 
     // T : O(n) S :(1)
     public static void sortTwoColours(int[] nums){
